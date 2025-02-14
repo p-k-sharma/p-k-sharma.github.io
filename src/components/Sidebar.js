@@ -54,7 +54,7 @@ function Sidebar() {
                             <li> <hr className="dropdown-divider"/> </li>
                             <li><a className="dropdown-item text-black" href="https://www.linkedin.com/in/pulkit007/" target="/blank"><AiFillLinkedin className='fs-5'/> LinkedIn</a></li>
                             <li> <hr className="dropdown-divider"/> </li>
-                            <li><a className="dropdown-item text-black" href="https://github.com/pulkit-kumar-sharma" target="/blank"><AiFillGithub className='fs-5'/> Github</a></li>
+                            <li><a className="dropdown-item text-black" href="https://github.com/p-k-sharma" target="/blank"><AiFillGithub className='fs-5'/> Github</a></li>
                         </ul>
                     </div>
                 </div>

@@ -53,9 +53,7 @@ function Skills() {
                                 <div className="col-lg-3 col-md-3 py-3 col-sm-4 col-6 d-flex justify-content-center">
                                     <img className="technology-image  slide-in-bottom-technology" src="../images/Github.png" alt="Github"></img>
                                 </div>
-                            </div>
-
-                            
+                            </div>                            
                         </div>
                     </div>
                     <div className="col-lg-6 col-md-12 col-sm-12">
