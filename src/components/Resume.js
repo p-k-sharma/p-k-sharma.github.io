@@ -17,10 +17,16 @@ function Resume() {
                         <h4 className="ff-jose ls-2">EXPERIENCE</h4>
                         <ul>
                             <li>
-                                <h4 className="ff-jose my-1 text-red">Senior Software Engineer</h4>
-                                <h6 className="blue-label px-2 py-1">June 2023 - Present</h6>
+                                <h4 className="ff-jose my-1 text-red">Technical Lead</h4>
+                                <h6 className="blue-label px-2 py-1">October 2025 - Present</h6>
                                 <p className="m-0">Browserstack</p>
-                                <p>Mumbai, Maharashtra, India</p>
+                                <p>Remote, India</p>
+                            </li>
+                            <li>
+                                <h4 className="ff-jose my-1 text-red">Senior Software Engineer</h4>
+                                <h6 className="blue-label px-2 py-1">June 2023 - September 2025</h6>
+                                <p className="m-0">Browserstack</p>
+                                <p>Remote, India</p>
                             </li>
                             <li>
                                 <h4 className="ff-jose my-1 text-red">Senior Software Engineer</h4>
